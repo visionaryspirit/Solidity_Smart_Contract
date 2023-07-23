@@ -1,6 +1,6 @@
-# Unit 20 - "Joint Savings Account"
+# Smart Contract with Solidity - "Joint Savings Account"
+![Challenge Image](challenge_image/20-5-challenge-image.png)
 
-![alt=“”](Images/20-5-challenge-image.png)
 
 ### Background
 
